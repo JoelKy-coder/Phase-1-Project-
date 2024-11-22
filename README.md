@@ -11,6 +11,8 @@
 4. Are there specific times, places, or circimstances under which the risk is heightened for certain aircraft types?
 ### 2. Data Understanding and Analysis
 ![image](https://github.com/user-attachments/assets/006ec843-c171-4b53-83b6-f4bbbbe7cc43)
+![image](https://github.com/user-attachments/assets/fa11c320-66e1-4bcc-9af6-82fef57a8389)
+![image](https://github.com/user-attachments/assets/bb35474f-30b0-4880-bc99-9479b1d47663)
 
 ### 3. Recommendations
 Personal flights are responsible for a high percentage of aviation accidents. In the area of personal flights, detailed education and training courses should be encouraged for pilots. The safety-first culture has to be nourished within the community of personal aviation. Minimizing the occurrence of accidents in personal flights depends on how safety is considered the priority in every personal flying activity. Whichever the weather condition, pilots must be very prepared and informed of the possible risks to be taken in personal aviation.
