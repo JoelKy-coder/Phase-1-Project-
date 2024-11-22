@@ -12,8 +12,11 @@
 3. How do accident severities vary across aircraft types and manufacturers?
 4. Are there specific times, places, or circimstances under which the risk is heightened for certain aircraft types?
 ### 2. Data Understanding and Analysis
+##### Purpose of flights involved in accidents
 ![image](https://github.com/user-attachments/assets/006ec843-c171-4b53-83b6-f4bbbbe7cc43)
+#### Make, Model and engine type involved in more accidents
 ![image](https://github.com/user-attachments/assets/fa11c320-66e1-4bcc-9af6-82fef57a8389)
+#### Distribution of accidents by months and seasons
 ![image](https://github.com/user-attachments/assets/bb35474f-30b0-4880-bc99-9479b1d47663)
 
 ### 3. Recommendations
