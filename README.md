@@ -9,7 +9,10 @@
 2. Are there specific manufacturers associated with higher safety standards?
 3. How do accident severities vary across aircraft types and manufacturers?
 4. Are there specific times, places, or circimstances under which the risk is heightened for certain aircraft types?
-# Recommendations
+### 2. Data Understanding and Analysis
+![image](https://github.com/user-attachments/assets/006ec843-c171-4b53-83b6-f4bbbbe7cc43)
+
+### 3. Recommendations
 Personal flights are responsible for a high percentage of aviation accidents. In the area of personal flights, detailed education and training courses should be encouraged for pilots. The safety-first culture has to be nourished within the community of personal aviation. Minimizing the occurrence of accidents in personal flights depends on how safety is considered the priority in every personal flying activity. Whichever the weather condition, pilots must be very prepared and informed of the possible risks to be taken in personal aviation.
 
 Most accidents occur in summer. In good weather, pilots may become overly confident and feel there is less risk than in poor weather conditions. This can result in a casual approach toward safety procedures and / or unsafe behavior, like flying low, going too fast, or using aerobatics, which raise the accident risk. The remedy is to encourage responsible flying practices and avoid taking unnecessary risks by proper training and awareness. It is also a re-emphasis on flying inside the safety envelope to avert accidents.
