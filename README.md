@@ -1,5 +1,5 @@
 # Project-Risk Assesment of Aircraft for Commercial and Private Operations
-![image](https://github.com/user-attachments/assets/adcf5202-b201-4d76-acb0-db93fddb03cc)
+
 
 
 ## 1. Business Understanding
